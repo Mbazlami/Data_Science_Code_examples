@@ -1,7 +1,7 @@
 # Data_Science_Code_examples
 A brief overview of the coding capabilities 
 
-# Forest fire prediction regression problem
+# [Forest fire prediction regression problem] 
 - Exploratory data anlayis on forest fire data for Montisenho park
 - Standaridize data to accomodate features that are heavily weighted by their units
 - Grid Search through best models to predict in an accurate manner 
