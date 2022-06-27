@@ -1,5 +1,5 @@
-# Data_Science_Code_examples
-A brief overview of the coding capabilities 
+# Data_Science_Projects
+A brief overview of the coding capabilities in the area of machine learning  
 
 # [Forest fire prediction regression problem](https://github.com/Mbazlami/forest-fire-prediction-)
 - Exploratory data anlayis on forest fire data for Montisenho park
