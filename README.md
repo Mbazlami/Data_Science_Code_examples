@@ -8,6 +8,6 @@ A brief overview of the coding capabilities in the area of machine learning
 
 ![correlation matrix heatmap](https://github.com/Mbazlami/forest-fire-prediction-/blob/main/download.png)
 
-# Forest fire prediction classification problem 
+# Wine classification problem 
 - Webscraping for soccer player mentions using python and selenium.
 - Gathering data into 
