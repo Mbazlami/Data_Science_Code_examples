@@ -9,5 +9,5 @@ A brief overview of the coding capabilities in the area of machine learning
 ![correlation matrix heatmap](https://github.com/Mbazlami/forest-fire-prediction-/blob/main/download.png)
 
 # Wine classification problem 
-- Webscraping for soccer player mentions using python and selenium.
-- Gathering data into 
+- Explore relationship between attributes and develop a good understanding of what will be a good predictor for the type of wine.
+- Performing Variance filter to obtain best predictors using a variance threshold.
