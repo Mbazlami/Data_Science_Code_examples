@@ -12,3 +12,7 @@ A brief overview of the coding capabilities in the area of machine learning
 - Explore relationship between attributes and develop a good understanding of what will be a good predictor for the type of wine.
 - Performing Variance filtering to obtain best predictors using a variance threshold.
 - Grid Search through machine learning models such as KNN, SVC, logistic regression, and many others and returning the best performing model.
+
+# Predicting Explosiviblity of chemical dusts.
+- Dimensionality problem where varaibles are larger than the data points.
+
