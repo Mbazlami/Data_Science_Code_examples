@@ -1,6 +1,11 @@
 # Data_Science_Projects
 A brief overview of the coding capabilities in the area of machine learning  
 
+---
+# Python
+---
+A brief overview of the coding capabilities in the area of machine learning  
+
 # [Forest fire prediction regression problem](https://github.com/Mbazlami/forest-fire-prediction-)
 - Exploratory data anlayis on forest fire data for Montisenho park
 - Standaridize data to accomodate features that are heavily weighted by their units
@@ -16,4 +21,7 @@ A brief overview of the coding capabilities in the area of machine learning
 # Predicting Explosiviblity of chemical dusts.
 ![Kst pmax](https://github.com/Mbazlami/Chemical-Dust-Eplosivibilty-/blob/main/download.png)
 - Dimensionality problem where varaibles are larger than the data points.
+---
+# R programming
+---
 
