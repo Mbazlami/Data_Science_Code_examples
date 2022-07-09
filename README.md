@@ -20,6 +20,9 @@ A brief overview of the coding capabilities in the area of machine learning
 # Predicting Explosiviblity of chemical dusts.
 ![Kst pmax](https://github.com/Mbazlami/Chemical-Dust-Eplosivibilty-/blob/main/download.png)
 - Dimensionality problem where varaibles are larger than the data points.
+
+
+# Google Stock Price Prediction
 ---
 # R programming
 ---
