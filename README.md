@@ -22,7 +22,7 @@ A brief overview of the coding capabilities in the area of machine learning
 - Dimensionality problem where varaibles are larger than the data points.
 
 
-# Google Stock Price Prediction
+# Google Stock Price Prediction using SARIMA
 - Investigate the data's time series components by decomposing it to trends, seasonality, and cyclicity.
 - Finding ARIMA parameters that best describe the actual data through grid search.
 ![Gspp](https://github.com/Mbazlami/Google-stock-price-prediction/blob/main/google%20closed%20price.png)
