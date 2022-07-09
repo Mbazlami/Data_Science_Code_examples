@@ -17,7 +17,7 @@ A brief overview of the coding capabilities in the area of machine learning
 - Performing Variance filtering to obtain best predictors using a variance threshold.
 - Grid Search through machine learning models such as KNN, SVC, logistic regression, and many others and returning the best performing model.
 
-# Predicting Explosiviblity of chemical dusts.
+# [Predicting Explosiviblity of chemical dusts.](https://github.com/Mbazlami/Chemical-Dust-Eplosivibilty-)
 ![Kst pmax](https://github.com/Mbazlami/Chemical-Dust-Eplosivibilty-/blob/main/download.png)
 - Dimensionality problem where varaibles are larger than the data points.
 
