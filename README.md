@@ -23,6 +23,7 @@ A brief overview of the coding capabilities in the area of machine learning
 
 
 # Google Stock Price Prediction
+![Gspp](https://github.com/Mbazlami/Google-stock-price-prediction/blob/main/google%20closed%20price.png)
 ---
 # R programming
 ---
